@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on my self
+- 🌱 I’m currently learning Symfony
+- 👯 I’m looking to collaborate on idk
+- 💬 Ask me about any thing u want 
 <!--
 **yvsslne48/yvsslne48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
