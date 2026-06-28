@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 
-![Java](https://skillicons.dev/icons?i=java,js,react,html,css,tailwind,git,github,vscode&theme=dark)
+![Java](https://skillicons.dev/icons?i=java,js,react,html,css,tailwind,git,github,symfony,vscode&theme=dark)
 
 ### 📊 GitHub Stats
 
