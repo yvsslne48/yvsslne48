@@ -37,9 +37,6 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvsslne48&theme=tokyonight&hide_border=true)
 
-### 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yvsslne48&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ### 📫 Connect with Me
 
