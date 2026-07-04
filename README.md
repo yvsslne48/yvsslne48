@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Yassine%20Amrani&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student+%40+EHEIO;Building+full-stack+web+apps;Currently+working+on+a+Interactive+learning+platform;Always+learning+something+new&font=Fira+Code&center=true&width=500&height=50&color=06B6D4&vCenter=true&size=22)](https://yassine-react-portfolio.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student+%40+EHEIO;Building+full-stack+web+apps;Always+learning+something+new&font=Fira+Code&center=true&width=500&height=50&color=06B6D4&vCenter=true&size=22)](https://yassine-react-portfolio.vercel.app/)
 
 ### 🧑‍💻 About Me
 
