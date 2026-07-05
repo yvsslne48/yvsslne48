@@ -13,7 +13,6 @@
 🔭 Building:   Exam Prep Platform — helping students prep for exams
 🌐 Portfolio:  https://yassine--portfolio.vercel.app
 🌱 Learning:   Full-stack development, always
-💬 Ask me about: React, Symfony, .NET
 ```
 
 <br>
