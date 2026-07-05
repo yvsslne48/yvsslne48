@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=js,react,html,css,tailwind,symfony,dotnet,git,github,vscode&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=symfony,dotnet,js,react,html,css,tailwind,git,github,vscode&theme=dark)
 
 ### 📊 GitHub Stats
 
