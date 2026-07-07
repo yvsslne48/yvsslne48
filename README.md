@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Morocco-Oujda-4f46e5?style=flat-square&logo=google-maps&logoColor=white"/>
   <a href="https://yassine-react-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=flat-square&logo=vercel&logoColor=white"/></a>
   <a href="mailto:yassineamrani.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6d28d9?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="[(https://www.linkedin.com/in/yassine-amrani)](https://www.linkedin.com/in/yassine-amrani)"><img src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yassine---amrani/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/yvsslne48"><img src="https://img.shields.io/badge/GitHub-yvsslne48-818cf8?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
@@ -154,7 +154,7 @@ open_to:
   <a href="mailto:yassineamrani.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[[(https://www.linkedin.com/in/yassine-amrani)](https://www.linkedin.com/in/yassine-amrani/)](https://www.linkedin.com/in/yassine---amrani/)">
+ <a href="https://www.linkedin.com/in/yassine---amrani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/yvsslne48">
