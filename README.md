@@ -93,20 +93,6 @@ A production-deployed personal portfolio showcasing engineering work, built enti
 
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://readme-stats-six-lac.vercel.app/api?username=yvsslne48&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=818cf8&icon_color=6d28d9&text_color=c4b5fd" height="165"/>
-  <img src="https://readme-stats-six-lac.vercel.app/api/top-langs/?username=yvsslne48&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c4b5fd" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yvsslne48&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=6d28d9&currStreakLabel=a78bfa"/>
-</p>
-
----
 
 
 ## 📈 Contribution Activity
