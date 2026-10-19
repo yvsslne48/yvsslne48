@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About
 
-Software Engineering student at **EHEIO** with a strong foundation in full-stack web development, backend architecture, and real-time systems. I build end-to-end platforms — from system-level socket programming in Java to modern React frontends and Symfony/PHP backend APIs. I approach every project with a product engineering mindset: ship fast, iterate, measure.
+Software Engineering student at **EHEIM** with a strong foundation in full-stack web development, backend architecture, and real-time systems. I build end-to-end platforms — from system-level socket programming in Java to modern React frontends and Symfony/PHP backend APIs. I approach every project with a product engineering mindset: ship fast, iterate, measure.
 
 **Open to:** Internships · Junior Full Stack Roles · Open Source Collaboration · Freelance Projects
 
@@ -69,7 +69,7 @@ A production-deployed personal portfolio showcasing engineering work, built enti
 
 ## 🎓 Education
 
-**Software Engineering** — EHEIO *(École des Hautes Études D'Ingénierie Oujda)*
+**Software Engineering** — EHEIM *(École des Hautes Études d'Ingénierie et de Management)*
 *Current · Oujda, Morocco*
 
 - Full-stack web development, object-oriented programming, database systems
